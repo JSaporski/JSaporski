@@ -1,5 +1,6 @@
 # Hi there, I'm João Guilherme Saporski 👋
 
+- 🔭 Student at Rocketseat!
 - 🔭 I’m currently open to work as a trainee Front-end Developer or Front-end Developer.
 - 🌱 I’m currently learning about Front-end (HTML5, CSS3 and JavaScript)
 - 💬 Ask me about [```HTML5, CSS3```]
