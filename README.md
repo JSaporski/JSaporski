@@ -2,7 +2,7 @@
 
 - 🔭 Estudante de Sistemas de Informação na UniSociesc (Joinville)
 - 🔭 Atualmente busco uma oportunidade de estágio em Desenvolvimento Front-end, Desenvolvimento Web ou como UX/UI Designer.
-- 🌱 Estou aprendendo os fundamentos de HTML5, CSS3 e JavaScript.
+- 🌱 Estou aprendendo os fundamentos de HTML5, CSS3, JavaScript e UX/UI Design.
 - 💬 Pergunte-me sobre [```HTML5, CSS3, UX/UI Design```]
 
 <div align="center">
