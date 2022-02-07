@@ -1,4 +1,4 @@
-## Oi, me chamo João Guilherme sou estudante de UX/UI Design Desenvolvimento Front End!
+## Oi, me chamo João Guilherme sou estudante de UX/UI Design e Desenvolvimento Front End!
 
 - 🔭 Estudante de Sistemas de Informação na UniSociesc (Joinville)
 - 🔭 Atualmente busco uma oportunidade de estágio em Desenvolvimento Front End, Web Designer ou UX/UI Designer.
