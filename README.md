@@ -3,6 +3,7 @@
 - 🔭 Estudante de Sistemas de Informação na UniSociesc (Joinville)
 - 🔭 Atualmente busco uma oportunidade de estágio em Desenvolvimento Front-end ou Web Design.
 - 🌱 Estou aprendendo os fundamentos de HTML5, CSS3, JavaScript e futuramente React.
+- 🌱 Além disso, possuo alguns conhecimentos básicos sobre a ferramenta Figma e UX/UI Design, como cores, tipografia, heurísticas, espaçamentos etc.
 - 💬 Pergunte-me sobre [```HTML5, CSS3, JavaScript```]
 
 <div align="center">
