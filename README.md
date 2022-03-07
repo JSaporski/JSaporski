@@ -1,9 +1,9 @@
-## Oi, me chamo João Guilherme. Sou estudante de UX/UI Design e Desenvolvimento Front-end!
+## Oi, me chamo João Guilherme. Sou estudante de Desenvolvimento Front-end!
 
 - 🔭 Estudante de Sistemas de Informação na UniSociesc (Joinville)
-- 🔭 Atualmente busco uma oportunidade de estágio em Desenvolvimento Front-end, Web Designer ou UX/UI Designer.
-- 🌱 Estou aprendendo os fundamentos de HTML5, CSS3, JavaScript e UX/UI Design (cores, tipografia, espaçamentos, componentes de interfaces digitais, heurísticas etc.).
-- 💬 Pergunte-me sobre [```HTML5, CSS3, UX/UI Design```]
+- 🔭 Atualmente busco uma oportunidade de estágio em Desenvolvimento Front-end ou Web Design.
+- 🌱 Estou aprendendo os fundamentos de HTML5, CSS3, JavaScript e futuramente React.
+- 💬 Pergunte-me sobre [```HTML5, CSS3, JavaScript```]
 
 <div align="center">
   <a href="https://github.com/JSaporski">
