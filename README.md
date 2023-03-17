@@ -1,8 +1,8 @@
 ## Oi, me chamo João Guilherme. Sou estudante de Desenvolvimento Front-end!
 
 - 🔭 Estudante de Sistemas de Informação na UniSociesc (Joinville)
-- 🔭 Atualmente sou Web Designer na AZ Empresas.
-- 🌱 Estou aprendendo os fundamentos de HTML5, CSS3, JavaScript e futuramente React.
+- 🔭 Atualmente sou Web Designer na AZ Empresas, desenvolvo os projetos com HTML, CSS, JavaScript e WordPress/Elementor.
+- 🌱 Estou aprendendo os fundamentos de JavaScript para futuramente aprender React JS.
 - 🌱 Além disso, possuo alguns conhecimentos básicos sobre a ferramenta Figma e UI Design, como cores, tipografia, espaçamentos, heurísticas etc.
 - 💬 Pergunte-me sobre [```HTML5, CSS3, JavaScript```]
 
