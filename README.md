@@ -1,4 +1,4 @@
-## Oi, me chamo João Guilherme. Sou estudante de Desenvolvimento Front-end!
+## Oi, me chamo João Guilherme. Sou estudante de Desenvolvimento Web!
 
 - 🔭 Atualmente sou Web Designer na AZ Empresas, desenvolvo os projetos com HTML, CSS, JavaScript e WordPress/Elementor.
 - 🌱 Estou aprendendo os fundamentos de JavaScript para futuramente aprender React JS.
