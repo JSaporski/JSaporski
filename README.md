@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou Web Designer na Azempresas, desenvolvo os projetos com HTML, CSS, JavaScript e WordPress/Elementor.
 - 🌱 Estou aprendendo os fundamentos de JavaScript para futuramente aprender React JS.
-- 🌱 Além disso, possuo alguns conhecimentos básicos sobre a ferramenta Figma e UI Design, como cores, tipografia, espaçamentos, heurísticas etc.
+- 📚 Além disso, possuo alguns conhecimentos básicos sobre a ferramenta Figma e UI Design, como cores, tipografia, espaçamentos, heurísticas etc.
 - 💬 Pergunte-me sobre [```HTML5, CSS3, JavaScript```]
 
 <div align="center">
